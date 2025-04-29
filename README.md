@@ -16,6 +16,7 @@
 | **Aristotelica Pro**   | Limpa, legível      | Subtítulo  |
 
 🖼️**Elementos Visuais**
+
 **Foguete 3D estilizado:**
 - Símbolo principal do projeto
 - Representa: inovação, avanço, crescimento rápido, tecnologia
